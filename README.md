@@ -14,8 +14,8 @@
   <img src="https://telegra.ph/file/f33253415146883ca8430.jpg">
 </p>
 
-# Sidhu-Robot
-Me On Telegram [🔥SIDHU🔥](https://t.me/Sidhu_Robot__Owner)
+# IFSHAN-ROBOT
+WHO IS ANSHJOT? [🔥ANSH🔥](www.whoisanshjotsingh.weebly.com)
 
 ## How To Host
 The easiest way to deploy this Bot
@@ -24,7 +24,7 @@ The easiest way to deploy this Bot
 CREDITS
 ```
 ❤️ ALL CREDITS GOES TO MY RESPECTFUL OWNER😉
-This Bot Is Created By @SIDHU_ROBOT_OWNER !
+This Bot Is Created By whoisanshjot.weebly.com !
 
 
 
