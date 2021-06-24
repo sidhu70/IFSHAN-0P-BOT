@@ -15,7 +15,7 @@
 </p>
 
 # IFSHAN-ROBOT
-WHO IS ANSHJOT? [🔥ANSH🔥](www.whoisanshjotsingh.weebly.com)
+WHO IS ANSHJOT? [🔥ANSH🔥](https://whoisanshjotsingh.weebly.com/)
 
 ## How To Host
 The easiest way to deploy this Bot
