@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/f33253415146883ca8430.jpg">
+  <img src="https://telegra.ph/file/0e9f755afece15a9aa743.jpg">
 </p>
 
 # IFSHAN-ROBOT
